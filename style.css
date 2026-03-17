@@ -1,0 +1,24 @@
+
+.navbar-container {
+    background-color: green;
+}
+#hero section {
+    background-color: yellow;
+}
+
+<!-- Image of yourself -->
+<img src="my pic.html" alt="My photo" width="200" height="300">
+
+/* Change font for entire page */
+        body {
+            font-family: "Times New Roman", Times, serif;
+        }
+
+        /* Make image rounded */
+        img {
+            border-radius: 50%;
+        }
+
+
+
+
